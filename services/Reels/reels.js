@@ -215,11 +215,11 @@ const likeUser = async (checkUserInDB, reelId, data) => {
 		if (!a) {
 			return { isSuccess: false, data: ERROR_MESSAGE.ERROR_IN_LIKE };
 		} else {
-			const pointsDataResponse =  new pointsModel(data);
-	        const result = await pointsDataResponse.save(pointsDataResponse);
-			if (!result) {
-				return { isSuccess: false, data: ERROR_MESSAGE.ERROR_IN_POINTS };
-			}
+			// const pointsDataResponse =  new pointsModel(data);
+	        // const result = await pointsDataResponse.save(pointsDataResponse);
+			// if (!result) {
+			// 	return { isSuccess: false, data: ERROR_MESSAGE.ERROR_IN_POINTS };
+			// }
 			return { isSuccess: true, data: SUCCESS_MESSAGE.LIKE_REEL_RECORD };
 		}
 	} catch (err) {
