@@ -1,0 +1,205 @@
+2022-11-06 17:54:23:5423 error: REQUIRED API REQUEST PARAMETERS ARE MISSING
+2022-11-07 10:55:12:5512 error: REQUIRED API REQUEST PARAMETERS ARE MISSING
+2022-11-07 10:56:16:5616 error: REQUIRED API REQUEST PARAMETERS ARE MISSING
+2022-11-07 10:56:47:5647 error: REQUIRED API REQUEST PARAMETERS ARE MISSING
+2022-11-07 10:57:07:577 error: {}
+2022-11-07 10:57:07:577 error: TypeError: Cannot read properties of undefined (reading 'fileUpload')
+2022-11-07 12:10:50:1050 error: User Name Already Exists
+2022-11-07 12:11:04:114 error: User Name Already Exists
+2022-11-07 12:11:39:1139 error: User Name Already Exists
+2022-11-07 12:11:59:1159 error: User Name Already Exists
+2022-11-07 13:28:57:2857 info: Admin record checked successfully
+2022-11-07 13:30:19:3019 error: User Name Already Exists
+2022-11-07 17:08:32:832 error: User Name Already Exists
+2022-11-07 17:24:18:2418 error: User Name Already Exists
+2022-11-07 17:24:20:2420 error: User Name Already Exists
+2022-11-07 17:25:56:2556 error: User Name Already Exists
+2022-11-07 17:27:44:2744 error: User Name Already Exists
+2022-11-07 17:29:41:2941 error: User Name Already Exists
+2022-11-07 17:30:52:3052 error: User Name Already Exists
+2022-11-07 17:31:41:3141 error: User Name Already Exists
+2022-11-07 17:36:44:3644 error: {}
+2022-11-07 17:36:44:3644 error: ReferenceError: checkUserNameRecordForIndividual is not defined
+2022-11-07 17:37:18:3718 error: User Name Already Exists
+2022-11-07 17:38:45:3845 error: User Name Already Exists
+2022-11-07 17:39:23:3923 error: User Name is Available 
+2022-11-07 17:39:36:3936 error: User Name is Available 
+2022-11-07 17:39:37:3937 error: User Name is Available 
+2022-11-07 17:39:39:3939 error: User Name is Available 
+2022-11-07 17:39:58:3958 error: User Name is Available 
+2022-11-07 17:44:17:4417 error: User Name Already Exists
+2022-11-07 17:44:23:4423 error: User Name Already Exists
+2022-11-07 17:47:00:470 error: User Name is Available 
+2022-11-07 17:47:07:477 error: User Name is Available 
+2022-11-07 17:47:21:4721 error: User Name is Available 
+2022-11-08 10:51:39:5139 error: User Name Already Exists
+2022-11-08 10:52:05:525 error: User Name Already Exists
+2022-11-08 11:11:45:1145 error: User Name is Available 
+2022-11-08 11:20:24:2024 error: User Name is Available 
+2022-11-08 11:20:37:2037 error: User Name is Available 
+2022-11-08 11:22:30:2230 error: User Name is Available 
+2022-11-08 11:26:14:2614 error: User Name is Available 
+2022-11-08 11:29:27:2927 error: User Name Already Exists
+2022-11-08 11:33:37:3337 error: User Name is Available 
+2022-11-08 11:36:21:3621 error: User Name Already Exists
+2022-11-08 11:36:27:3627 error: User Name is Available 
+2022-11-08 11:51:50:5150 error: User Name Already Exists
+2022-11-08 11:53:18:5318 error: User Name Already Exists
+2022-11-08 11:53:31:5331 error: User Name Already Exists
+2022-11-08 11:53:37:5337 error: User Name is Available 
+2022-11-08 11:54:20:5420 error: User Name Already Exists
+2022-11-08 11:54:29:5429 error: User Name is Available 
+2022-11-08 11:55:55:5555 error: REQUIRED API REQUEST PARAMETERS ARE MISSING
+2022-11-08 11:56:11:5611 error: REQUIRED API REQUEST PARAMETERS ARE MISSING
+2022-11-08 11:56:20:5620 error: REQUIRED API REQUEST PARAMETERS ARE MISSING
+2022-11-08 12:27:19:2719 info: User Name Already Exists
+2022-11-08 12:27:19:2719 error: User Name Already Exists
+2022-11-08 12:27:31:2731 info: User Name is Available 
+2022-11-08 12:27:31:2731 error: User Name is Available 
+2022-11-08 12:27:40:2740 info: User Name Already Exists
+2022-11-08 12:27:40:2740 error: User Name Already Exists
+2022-11-08 14:25:31:2531 error: Email or Number Already Exists Please Change your Email or Number
+2022-11-08 14:53:19:5319 error: Users are not in Data Base
+2022-11-08 14:54:46:5446 error: Users are not in Data Base
+2022-11-08 15:04:20:420 error: Invalid Token
+2022-11-08 15:04:43:443 error: Invalid Token
+2022-11-08 19:08:47:847 error: User Name Already Exists
+2022-11-08 19:11:00:110 error: Email or Number Already Exists Please Change your Email or Number
+2022-11-09 11:20:42:2042 error: Users are not in Data Base
+2022-11-09 11:22:51:2251 error: Story Upload Error
+2022-11-09 11:23:59:2359 error: Story Upload Error
+2022-11-09 11:25:22:2522 error: Story Upload Error
+2022-11-09 11:27:42:2742 error: Story Upload Error
+2022-11-09 11:29:04:294 error: Story Upload Error
+2022-11-09 13:05:12:512 info: User logged in successfully
+2022-11-09 13:11:01:111 info: User logged in successfully
+2022-11-09 13:16:41:1641 info: User logged in successfully
+2022-11-09 13:17:08:178 info: User logged in successfully
+2022-11-09 14:06:19:619 info: User logged in successfully
+2022-11-09 14:18:30:1830 info: User logged in successfully
+2022-11-09 14:19:30:1930 info: User logged in successfully
+2022-11-09 14:21:00:210 info: User logged in successfully
+2022-11-09 14:22:48:2248 error: Email or Number Already Exists Please Change your Email or Number
+2022-11-09 14:23:08:238 error: User Name Already Exists
+2022-11-09 14:43:10:4310 error: Invalid Token
+2022-11-09 14:44:12:4412 error: Invalid Token
+2022-11-10 17:04:36:436 error: Email or Number Already Exists Please Change your Email or Number
+2022-11-10 17:04:44:444 error: Email or Number Already Exists Please Change your Email or Number
+2022-11-10 17:17:32:1732 error: User Name Already Exists
+2022-11-10 18:10:31:1031 error: Email or Number Already Exists Please Change your Email or Number
+2022-11-10 18:12:21:1221 error: Email or Number Already Exists Please Change your Email or Number
+2022-11-10 18:15:07:157 error: Email or Number Already Exists Please Change your Email or Number
+2022-11-10 18:16:03:163 error: Email or Number Already Exists Please Change your Email or Number
+2022-11-11 11:11:18:1118 error: {}
+2022-11-11 11:11:18:1118 error: TypeError: Assignment to constant variable.
+2022-11-11 11:12:19:1219 error: {}
+2022-11-11 11:12:19:1219 error: TypeError: Assignment to constant variable.
+2022-11-11 11:17:48:1748 error: Username or Password is Incorrect
+2022-11-11 11:21:24:2124 info: User logged in successfully
+2022-11-11 11:22:31:2231 info: User logged in successfully
+2022-11-11 11:22:40:2240 error: Admin does not exist
+2022-11-11 12:13:32:1332 info: User logged in successfully
+2022-11-11 12:17:04:174 info: User logged in successfully
+2022-11-11 12:24:51:2451 info: User logged in successfully
+2022-11-11 12:27:02:272 info: User logged in successfully
+2022-11-11 12:27:11:2711 info: User logged in successfully
+2022-12-08 13:48:29:4829 error: Error in admin record fetch
+2022-12-08 13:49:38:4938 error: Error in admin record fetch
+2022-12-08 14:33:25:3325 error: Error in admin record fetch
+2022-12-12 16:40:06:406 error: Error in admin record fetchObjectParameterError: Parameter "filter" to findOne() must be an object, got Ashu@123
+2022-12-12 16:40:06:406 error: Admin does not exist
+2022-12-12 16:47:48:4748 info: User logged in successfully
+2022-12-12 16:48:31:4831 error: Admin does not exist
+2022-12-12 16:48:44:4844 info: User logged in successfully
+2022-12-12 16:48:54:4854 error: Admin does not exist
+2022-12-12 16:55:42:5542 error: User Does Not Exists Please Register First
+2022-12-12 17:10:03:103 info: User logged in successfully
+2022-12-12 18:24:25:2425 error: Invalid Token
+2022-12-12 18:26:56:2656 error: ERROR updating Admin Information!CastError: Cast to Boolean failed for value "Active" (type string) at path "status" because of "CastError"
+2022-12-12 18:26:56:2656 error: Entered Contact number does not exist
+2022-12-12 18:29:03:293 error: ERROR updating Admin Information!CastError: Cast to Boolean failed for value "Active" (type string) at path "status" because of "CastError"
+2022-12-12 18:29:03:293 error: Entered User ID does not exist
+2022-12-12 18:31:08:318 error: ERROR updating Admin Information!CastError: Cast to Boolean failed for value "Active" (type string) at path "status" because of "CastError"
+2022-12-12 18:31:08:318 error: Entered User ID does not exist
+2022-12-12 18:37:47:3747 error: ERROR updating Admin Information!CastError: Cast to Boolean failed for value "Active" (type string) at path "status" because of "CastError"
+2022-12-12 18:37:47:3747 error: Entered User ID does not exist
+2022-12-12 19:55:47:5547 error: Error in Operator record fetchReferenceError: operatorModel is not defined
+2022-12-12 19:55:47:5547 error: {}
+2022-12-12 19:55:47:5547 error: TypeError: fetchOperatorRecord.data.forEach is not a function
+2022-12-12 19:57:43:5743 error: Error in Operator record fetchReferenceError: operatorModel is not defined
+2022-12-12 19:57:43:5743 error: {}
+2022-12-12 19:57:43:5743 error: TypeError: fetchOperatorRecord.data.forEach is not a function
+2022-12-13 11:53:51:5351 error: {}
+2022-12-13 11:53:51:5351 error: TypeError: fetchOperatorRecord.data.forEach is not a function
+2022-12-13 12:13:14:1314 error: Entered User ID does not exist
+2022-12-13 12:13:31:1331 error: Entered User ID does not exist
+2022-12-13 12:16:00:160 error: Entered User ID does not exist
+2022-12-13 12:16:05:165 error: Entered User ID does not exist
+2022-12-13 12:18:49:1849 error: Entered User ID does not exist
+2022-12-13 12:19:01:191 error: Entered User ID does not exist
+2022-12-13 12:48:26:4826 error: {}
+2022-12-13 12:48:26:4826 error: TypeError: fetchOperatorRecord.data.forEach is not a function
+2022-12-13 12:55:39:5539 error: Entered User ID does not exist
+2022-12-13 12:55:48:5548 error: Entered User ID does not exist
+2022-12-13 12:55:55:5555 error: Entered User ID does not exist
+2022-12-13 12:56:00:560 error: {}
+2022-12-13 12:56:00:560 error: TypeError: fetchOperatorRecord.data.forEach is not a function
+2022-12-13 12:58:19:5819 error: Entered User ID does not exist
+2022-12-13 12:58:46:5846 error: Entered User ID does not exist
+2022-12-13 12:58:57:5857 error: Entered User ID does not exist
+2022-12-13 12:59:08:598 error: Entered User ID does not exist
+2022-12-13 17:25:48:2548 error: Reels are not in Data BaseReferenceError: usersAllRecord is not defined
+2022-12-13 17:25:48:2548 error: Reels are not in Data Base
+2022-12-13 17:30:29:3029 error: Reels are not in Data BaseReferenceError: usersAllRecord is not defined
+2022-12-13 17:30:29:3029 error: Reels are not in Data Base
+2022-12-13 18:13:21:1321 error: ERROR updating In Reel Information!ReferenceError: userModel is not defined
+2022-12-13 18:13:21:1321 error: ERROR updating In Reel Information!
+2022-12-13 19:48:48:4848 info: User logged in successfully
+2022-12-13 19:53:33:5333 info: User logged in successfully
+2022-12-14 13:07:44:744 error: User Post Not Found
+2022-12-14 13:08:24:824 error: User Post Not Found
+2022-12-14 18:14:57:1457 error: Error in user record fetchReferenceError: req is not defined
+2022-12-14 18:16:33:1633 error: Error in user record fetchReferenceError: req is not defined
+2022-12-14 18:18:04:184 error: Error in user record fetchReferenceError: req is not defined
+2022-12-14 18:48:00:480 error: Error in user record fetchTypeError: followData.updateOne is not a function
+2022-12-15 12:32:09:329 error: {}
+2022-12-15 12:32:09:329 error: ReferenceError: fetchOperatorRecord is not defined
+2022-12-16 15:40:49:4049 error: Token Not Found
+2022-12-16 16:50:54:5054 error: Entered User ID does not exist
+2022-12-16 16:51:33:5133 error: Entered User ID does not exist
+2022-12-16 16:58:52:5852 error: Entered User ID does not exist
+2022-12-16 17:19:12:1912 error: Entered User ID does not exist
+2022-12-16 17:19:44:1944 error: Entered User ID does not exist
+2022-12-16 17:20:04:204 error: Entered User ID does not exist
+2022-12-16 17:20:19:2019 error: Entered User ID does not exist
+2022-12-16 17:20:55:2055 error: Entered User ID does not exist
+2022-12-16 17:26:38:2638 error: Entered User ID does not exist
+2022-12-16 17:32:27:3227 error: Error in Operator record fetchCastError: Cast to ObjectId failed for value "639c55ecd058438abdfa811" (type string) at path "_id" for model "commentReeldbs"
+2022-12-16 17:32:27:3227 error: Entered User ID does not exist
+2022-12-16 17:32:49:3249 error: Entered User ID does not exist
+2022-12-17 12:20:27:2027 error: {}
+2022-12-17 12:20:27:2027 error: TypeError: postcommentService is not a function
+2022-12-17 12:41:19:4119 error: Entered User ID does not exist
+2022-12-17 15:21:33:2133 error: Entered Comment ID does not exist
+2022-12-17 15:21:55:2155 error: Entered Comment ID does not exist
+2022-12-17 15:24:06:246 error: Entered Comment ID does not exist
+2022-12-19 13:53:55:5355 info: User logged in successfully
+2022-12-19 14:02:28:228 error: {}
+2022-12-19 14:02:28:228 error: ReferenceError: Cannot access 'check' before initialization
+2022-12-19 14:02:59:259 error: {}
+2022-12-19 14:02:59:259 error: ReferenceError: Cannot access 'check' before initialization
+2022-12-19 14:04:07:47 info: User logged in successfully
+2022-12-19 14:07:47:747 error: {}
+2022-12-19 14:07:47:747 error: ReferenceError: userIdResponse is not defined
+2022-12-19 14:08:22:822 info: User logged in successfully
+2022-12-19 14:13:12:1312 info: User logged in successfully
+2022-12-19 14:31:28:3128 error: Invalid Token
+2022-12-19 14:33:40:3340 info: User logged in successfully
+2022-12-19 14:35:57:3557 info: User logged in successfully
+2022-12-19 14:36:21:3621 error: Invalid Token
+2022-12-19 14:40:23:4023 info: User logged in successfully
+2022-12-20 12:19:29:1929 info: User logged in successfully
+2022-12-20 12:21:21:2121 error: Invalid Token
+2022-12-20 12:30:12:3012 error: Entered Reel ID does not exist
+2022-12-20 12:33:42:3342 error: Entered Reel ID does not exist
+2022-12-20 12:36:00:360 error: Entered Reel ID does not exist

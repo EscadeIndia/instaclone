@@ -1,0 +1,7 @@
+{
+    "awsSecretId": "AKIAUQIZRULDOXIXIFGT",
+    "awsSecretKey": "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",
+    "awsRegion": "ap-northeast-2",
+    "bucketName": "e3dafilemanager",
+    "bucketEndPoint": "https://e3dafilemanager.s3.ap-northeast-2.amazonaws.com/"
+}
